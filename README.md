@@ -1,2 +1,2 @@
 # Demo
-To practice git
+To practice git hub
